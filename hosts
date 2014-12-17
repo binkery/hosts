@@ -4,46 +4,47 @@
 74.125.204.191 javarevisited.blogspot.com
 
 # For Google fonts , apis and analytics
-127.0.0.1 fonts.googleapis.com
-127.0.0.1 apis.google.com
-127.0.0.1 www.google-analytics.com
+127.1 fonts.googleapis.com
+127.1 apis.google.com
+127.1 www.google-analytics.com
 
 # For Google ads
-127.0.0.1 pagead2.googlesyndication.com
+127.1 pagead2.googlesyndication.com
+127.1 www.googletagservices.com
 
 #For Baidu
 # Baidu analytics
-127.0.0.1 hm.baidu.com
+127.1 hm.baidu.com
 # Baidu ads
-127.0.0.1 cbjs.baidu.com
-127.0.0.1 cpro.baidustatic.com
-#127.0.0.1 pos.baidu.com
-#127.0.0.1 cb.baidu.com
+127.1 cbjs.baidu.com
+127.1 cpro.baidustatic.com
+#127.1 pos.baidu.com
+#127.1 cb.baidu.com
 
 # alimama ads
-127.0.0.1 p.tanx.com
+127.1 p.tanx.com
 
 # JD.com
-127.0.0.1 x.jd.com
+127.1 x.jd.com
 
 # 163.com
-127.0.0.1 g.163.com
-127.0.0.1 img1.126.net
+127.1 g.163.com
+127.1 img1.126.net
 
 # QQ
-127.0.0.1 qzs.qq.com
-127.0.0.1 v.gdt.qq.com
+127.1 qzs.qq.com
+127.1 v.gdt.qq.com
 
 # sina
-#127.0.0.1 sax.sina.com.cn
-127.0.0.1 d0.sina.com.cn
-127.0.0.1 d1.sina.com.cn
-127.0.0.1 d2.sina.com.cn
-127.0.0.1 d3.sina.com.cn
-127.0.0.1 d9.sina.com.cn
+127.1 sax.sina.com.cn
+127.1 d0.sina.com.cn
+127.1 d1.sina.com.cn
+127.1 d2.sina.com.cn
+127.1 d3.sina.com.cn
+127.1 d9.sina.com.cn
 
 # sohu
-127.0.0.1 images.sohu.com
+127.1 images.sohu.com
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
