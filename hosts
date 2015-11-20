@@ -1,4 +1,3 @@
-127.0.0.1  pagead2.googlesyndication.com
 127.0.0.1  www.googletagservices.com
 127.0.0.1  hm.baidu.com
 127.0.0.1  cbjs.baidu.com
@@ -28,5 +27,25 @@
 127.0.0.1  r.qiyou.com
 127.0.0.1  s24.cnzz.com
 127.0.0.1  cmarket.kejet.net
-127.0.0.1 entry.baidu.com
-127.0.0.1 su.bdimg.com
+127.0.0.1  entry.baidu.com
+127.0.0.1  su.bdimg.com
+127.0.0.1  changyan.itc.cn
+127.0.0.1  changyan.sohu.com
+127.0.0.1  nsclick.baidu.com
+127.0.0.1  static.anquan.org
+127.0.0.1  js.admin6.com
+127.0.0.1  code.admin6.com
+127.0.0.1  static.anquan.org
+127.0.0.1  js.admin6.com
+127.0.0.1  code.admin6.com
+## Google services
+127.0.0.1  googleads.g.doubleclick.net
+127.0.0.1  pagead2.googlesyndication.com
+#127.0.0.1  pagead2.googlesyndication.com
+#127.0.0.1  www.googletagservices.com
+#127.0.0.1 fonts.googleapis.com
+#127.0.0.1 lh4.ggpht.com
+#127.0.0.1 www.google-analytics.com
+#127.0.0.1 apis.google.com
+#127.0.0.1 www.google.com
+#127.0.0.1 fonts.gstatic.com
