@@ -42,6 +42,8 @@
 127.0.0.1  count.612.com
 127.0.0.1  entry.baidu.com
 127.0.0.1  a.alimama.cn
+# 360
+127.0.0.1 s.lianmeng.360.cn
 ## Google services
 127.0.0.1  googleads.g.doubleclick.net
 127.0.0.1  pagead2.googlesyndication.com
